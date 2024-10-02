@@ -1,0 +1,131 @@
+<html>
+<head>
+<!-- Author:  -->
+<!-- Company:  -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Access Denied: None</title>
+<style type="text/css">
+BODY {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 11pt;
+	color : #000000;
+}
+H1 {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 13pt;
+	font-weight : bold;
+	color : black;
+}
+A {
+	color : #0000cc;
+}
+A:VISITED {
+	color : #660066;
+}
+A:HOVER {
+	color : #cc0000;
+}
+TD.footer {
+	font-size : 8pt;
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	padding : 5px 5px 5px 5px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #A7ABA2;
+}
+.bodytext_bold {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 11pt;
+	color : #000000;
+	font-weight: bold;
+}
+.bodytext_small {
+	font-family : Verdana, Arial, Helvetica, sans-serif;
+	font-size : 9pt;
+	color : #000000;
+}
+.detailstext {
+	font-size: 13pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.white_text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
+.about_text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #000099;
+	font-size: 9px;
+	text-align:right;
+}
+</style>
+</head>
+<body bgcolor=white leftmargin=70>
+<center><font color=black><font size=36><b>Access Denied: None</b></font></font>
+</center>
+<center><table width="800" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor=black>
+    <td><img src=width=1 height=8 border=0></td>
+  </tr>
+</table>
+</center>
+<center><table width="800" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td><blockquote>
+        <h1></h1>
+        <p align="center">The site you are trying to access has not been categorized. Security requires all sites to be categorized before access can be granted. <br><a href="http://sitereview.bluecoat.com/sitereview.jsp?referrer=136&url=https:&#x2F;&#x2F;storyteller-blog.com&#x2F;wp-content&#x2F;uploads&#x2F;2024&#x2F;04&#x2F;fallout-like-excel-rpg_v2.xlsm"><font color=red><u><b>Please click here</b></u></font></a> to request categorization of the site.<br><br><b>Note:</b> Categorization is not an Eagle Alliance function, the above link will take you to a vendor site. Please allow 24-48hrs. for the site to be categorized by Bluecoat.</p>
+    </blockquote></td>
+  </tr>
+</table>
+</center>
+<center><table width="600" cellpadding="0" cellspacing="0" border="0">
+<table bgcolor=white border="2" bordercolor=black>
+<tr>
+    <td><!--<blockquote>-->
+        <table width="600" border="0">
+          <tr class="detailstext">
+    <h3>This session has been logged.<br> Active network monitoring is being performed.</h3>
+          </tr>
+          <tr class="detailstext">
+            <td width="300" class="detailstext">Authenticated Username:</td>
+            <td width="300" class="detailstext">CORP\lmthom8</td>
+          </tr>
+          <tr class="detailstext">
+            <td width="300" class="detailstext">Proxy Name:</td>
+            <td width="300" class="detailstext">W000-NIBP-U01</td>
+          </tr>
+          <tr class="detailstext">
+            <td width="300" class="detailstext">Source IP address:</td>
+            <td width="300" class="detailstext">144.51.187.13</td>
+          </tr>
+          <tr class="detailstext">
+            <td width="300" class="detailstext">Exception ID:</td>
+            <td width="300" class="detailstext">user-defined.CAT_None</td>
+          </tr>
+          <tr class="detailstext">
+            <td width="300">Date:</td>
+            <td width="300">2024-10-02</td>
+          </tr>
+	  <tr class="detailstext">
+            <td width="300"><b>URL Requested:</b></td>
+            <td width="300"><b>https:&#x2F;&#x2F;storyteller-blog.com&#x2F;wp-content&#x2F;uploads&#x2F;2024&#x2F;04&#x2F;fallout-like-excel-rpg_v2.xlsm</b></td>
+          </tr>
+          <tr class="detailstext">
+            <td width="300"><b>URL Category: </b></td>
+            <td width="300"><b>none</b></td>
+          </tr>
+        </table>
+    <!--</blockquote>--></td>
+  </tr>
+</table>
+</table>
+<br>
+<center><table width="800" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor=black>
+    <td><img src= width=1 height=8 border=0></td>
+  </tr>
+</table>
+</center>
+<center><font color=black><font size=36><b>Access Denied: None</b></font></font></center>
+</body>
+</html>
